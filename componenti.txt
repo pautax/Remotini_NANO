@@ -1,0 +1,18 @@
+NANO https://store.arduino.cc/arduino-nano
+
+L298 
+
+7805 https://www.adafruit.com/product/2164
+
+C1, C2 100mf generic
+
+RL1-2/3-4/5-6/7-8 "2relay module"  https://www.sainsmart.com/products/2-channel-5v-relay-module
+
+Remote control Wallis Universal SME002  http://www.wallis-universal.co.uk/
+ 
+LTM-8848 LITEON 
+ 
+
+
+
+
